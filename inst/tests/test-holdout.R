@@ -1,4 +1,4 @@
-context("Optimization")
+context("Hold-out")
 
 test_that("Hold-out method",{
     V1 <- 1:10

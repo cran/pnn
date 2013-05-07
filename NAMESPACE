@@ -1,3 +1,4 @@
-export(category.probs)
-export(guess.category)
+export(guess)
 export(learn)
+export(perf)
+export(smooth)

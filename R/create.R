@@ -1,4 +1,3 @@
-#' Create the model
 create.pnn <- function() {
     nn <- list(
         model="Probabilistic neural network",

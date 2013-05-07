@@ -1,4 +1,4 @@
-context("Create the PNN")
+context("Create")
 
 test_that("Test outputs", { 
     expect_that( is.list(model <- create.pnn()), is_true() )

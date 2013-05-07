@@ -1,0 +1,15 @@
+bibentry("Manual",
+   title = "PNN: Probabilistic neural network for the statistical language R",
+   author = person("Chasset P.-O."),
+   organization = "Independant scientist",
+   address      = "Nancy, France",
+   year   = 2013,
+   note   = "Software",
+   url    = "http://flow.chasset.net/pnn/",
+
+   mheader = "To cite the library PNN in publications use:",
+
+   mfooter = 
+     paste("We have invested a lot of time and effort in creating PNN,",
+      "please cite it when using it for data analysis.", sep = " ")
+)
